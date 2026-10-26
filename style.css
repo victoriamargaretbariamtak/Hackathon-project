@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+body {
+    min-height: 100vh;
+    background-image: url(https://images-ext-1.discordapp.net/external/aJDFU4Pu9OlP4u8GpZL5obTbssQ_7_jgWJGvg_1OMbs/%3Fagsi%3DCmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAxNDE6MTo0OTQxYzdkNDU2YzJmZGJlOjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDA1MDE2MGMwMzM2ODowMDA2NWU4N2E0ZWIzZDdmEAIYAiIKaW1hZ2UvanBlZw%3D%3D/https/lens.usercontent.google.com/banana?format=webp);
+    background-size:cover;
+    background-repeat:no-repeat;
+    font-family:Arial, sans-serif;
+    text-align:center;
+}
+.upper{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:20px;
+
+}
+.logo p{
+    font-size:20px;
+    font-weight: bold;
+
+}
+nav{
+    display:flex;
+    gap: 20px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 14px;
+}
+
+button{
+    border:none;
+    border-radius:25px;
+    padding: 12px 24px;
+    cursor: pointer;
+    margin:10px;
+
+}
+h1{
+    font-size:46px;
+    margin-top:40px;
+    margin-bottom: 15px
+}
+.picnic-list{
+    display: inline-block;
+    text-align: left;
+}
